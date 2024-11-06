@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipekeeji.github.io/NUX/sitemap_index.txt
+Sitemap: https://ipekeeji.github.io/PVJ/sitemap_index.txt
+Sitemap: https://ipekeeji.github.io/ReD/sitemap_index.txt
+Sitemap: https://ipekeeji.github.io/shS/sitemap_index.txt
